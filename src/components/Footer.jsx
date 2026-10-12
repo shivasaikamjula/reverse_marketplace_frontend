@@ -40,7 +40,7 @@ const Footer = () => {
         <div className="footer-links-col">
           <h4>College Viva Details</h4>
           <p className="tech-badge"><strong>Backend:</strong> Spring Boot 3 & MySQL</p>
-          <p className="tech-badge"><strong>Frontend:</strong> React & Vite</p>
+          <p className="tech-badge"><strong>Frontend:</strong> React.js & Pure CSS</p>
           <p className="tech-badge"><strong>Security:</strong> JWT & BCrypt</p>
           <p className="tech-badge"><strong>Author:</strong> B.Tech 3rd Year Project</p>
         </div>
