@@ -38,17 +38,17 @@ const Footer = () => {
         </div>
 
         <div className="footer-links-col">
-          <h4>College Viva Details</h4>
-          <p className="tech-badge"><strong>Backend:</strong> Spring Boot 3 & MySQL</p>
-          <p className="tech-badge"><strong>Frontend:</strong> React.js & Pure CSS</p>
-          <p className="tech-badge"><strong>Security:</strong> JWT & BCrypt</p>
-          <p className="tech-badge"><strong>Author:</strong> B.Tech 3rd Year Project</p>
+          <h4>About Platform</h4>
+          <span>Verified Local Providers</span>
+          <span>Competitive Bidding</span>
+          <span>Secure Service Orders</span>
+          <span>Transparent Pricing</span>
         </div>
       </div>
 
       <div className="footer-bottom">
         <div className="footer-bottom-inner">
-          <p>© 2026 Reverse Marketplace for Local Services. Designed for College Practical Demonstration.</p>
+          <p>© 2026 ReverseMarket - Local Services Marketplace. All rights reserved.</p>
         </div>
       </div>
     </footer>
